@@ -22,22 +22,6 @@
 
 ---
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-## 📊 Meu desempenho por aqui
-
-<div align="center">
-  <a href="https://github.com/Ailton779">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailton779&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailton779&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ailton779&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 <!-- TECNOLOGIAS QUE DOMINO -->
 ## 🛠️ Meu Stack Tecnológico
 
@@ -66,14 +50,6 @@
 | [S.O.L.I.D](https://github.com/Ailton779/S.O.L.I.D) | Sistema de identificação de cobras | React Native | Python |
 | [Sistema Controle Água](https://github.com/Ailton779/sistema-controle-agua) | Avaliação prática da disciplina de Programação Web 1 | Blade (PHP) |
 
----
-
-<!-- ANIMAÇÃO DA COBRINHA (OPCIONAL) -->
-## 🐍 Minhas contribuições
-
-![Snake animation](https://github.com/Ailton779/Ailton779/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
