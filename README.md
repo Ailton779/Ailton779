@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Analista de Sistemas em Formação | React | TypeScript | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=22&center=true&vCenter=true&width=600&lines=21+anos+%7C+4%C2%BA+semestre+de+ADS;Apaixonado+por+Front-end+e+Sistemas+Embarcados;Inglês+Fluente+%7C+Espanhol+Intermediário" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=22&center=true&vCenter=true&width=600&lines=21+anos+%7C+5%C2%BA+semestre+de+ADS;Apaixonado+por+Front-end+e+Sistemas+Embarcados;Inglês+Fluente+%7C+Espanhol+Intermediário" />
 </p>
 
 ---
