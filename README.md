@@ -11,7 +11,7 @@
 <!-- SOBRE MIM -->
 ## 🙋‍♂️ Sobre mim
 
-- 🎓 Tenho **21 anos** e estou cursando o **4º semestre** de **Análise e Desenvolvimento de Sistemas** (Tecnólogo).
+- 🎓 Tenho **21 anos** e estou cursando o **5º semestre** de **Análise e Desenvolvimento de Sistemas** (Tecnólogo).
 - 💻 Atualmente focado em **JavaScript**, **TypeScript**, **React** e **Python**.
 - 🔧 Concluí uma capacitação em **Sistemas Embarcados** (Embarcatech), unindo o mundo do hardware com o software.
 - 🌍 **Idiomas**: 
